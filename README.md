@@ -56,7 +56,7 @@ np.savetxt(datareprocessing_path, Data_Msc, delimiter=',')
 msc预处理后
 ![msc预处理后](https://img-blog.csdnimg.cn/9a01b6a3eabe427aba1b44217e8e3a63.png?x-oss-process=image/watermark,type_ZHJvaWRzYW5zZmFsbGJhY2s,shadow_50,text_Q1NETiBARWNob19Db2Rl,size_20,color_FFFFFF,t_70,g_se,x_16)
 #matlab预处理的实例
-  # 二.使用教程
+ # matlab版本的预处理实例
 ## 1.安装matlab
 ### 受matlab版权保护，matlab安装教程自行查找
 
