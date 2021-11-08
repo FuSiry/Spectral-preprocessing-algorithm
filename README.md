@@ -2,7 +2,10 @@
 Common preprocessing such as sg, msc, SNV, first-order derivative, second-order derivative, etc.
 <font size =3 color=bule >近红外光谱分析技术属于交叉领域，需要化学、计算机科学、生物科学等多领域的合作。为此，在（北邮邮电大学杨辉华老师团队）指导下，近期准备开源传统的PLS，SVM，ANN，RF等经典算和SG，MSC，一阶导，二阶导等预处理以及GA等波长选择算法以及CNN、AE等最新深度学习算法，以帮助其他专业的更容易建立具有良好预测能力和鲁棒性的近红外光谱模型。
 代码仅供学术使用，如需问题，联系方式：QQ：1427950662，微信：Fu_siry
+ 
 <hr style=" border:solid; width:100px; height:1px;" color=#000000 size=1">
+                                                                         
+                                                                         
 # python版本的预处理实例
 ## 1.搭建python环境
 <font color=#9A >推荐基于anaconda安装python，参考安装如下：
