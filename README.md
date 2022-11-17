@@ -1,10 +1,7 @@
 # Spectral-preprocessing-algorithm
 Common preprocessing such as sg, msc, SNV, first-order derivative, second-order derivative, etc.
 <font size =3 color=bule >近红外光谱分析技术属于交叉领域，需要化学、计算机科学、生物科学等多领域的合作。为此，在（北邮邮电大学杨辉华老师团队）指导下，近期准备开源传统的PLS，SVM，ANN，RF等经典算和SG，MSC，一阶导，二阶导等预处理以及GA等波长选择算法以及CNN、AE等最新深度学习算法，以帮助其他专业的更容易建立具有良好预测能力和鲁棒性的近红外光谱模型。
-代码仅供学术使用，如需问题，联系方式：QQ：1427950662，微信：Fu_siry，如对您有帮助，请右上角star一下。
-
-![微信图片_20220522163336](https://user-images.githubusercontent.com/56440282/169686113-435a0912-1c72-42db-85d9-07770b83a8ba.jpg)
-
+代码仅供学术使用
  
 <hr style=" border:solid; width:100px; height:1px;" color=#000000 size=1">
                                                                          
